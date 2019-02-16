@@ -1,0 +1,13 @@
+For starters Im not good at writing RSPECs. you may encounter issues. 
+Feel free to look at solutions if you feel that your code should be passing the RSPECs
+but the rspec is being too picky.
+
+the order I would complete this is is as follows
+
+deck
+pile
+board
+hand
+player
+
+Happy studying!
