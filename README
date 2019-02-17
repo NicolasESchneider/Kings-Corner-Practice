@@ -10,4 +10,10 @@ board
 hand
 player
 
+KNOWN ISSUES
+for the deck.take(n) method
+use this 
+ @cards.pop(n)
+or else you will likely fail most rspecs.
+
 Happy studying!
