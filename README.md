@@ -1,2 +1,2 @@
 # Kings-Corner-Practice
-This is a practice test I guess. Many problems may arise due to the RSPECS being poorly written. Feel free to change them If you find them not to work correctly
+This is a Practice assessment I built for AO-2. Feel free to rework the Rspecs if you find them a little sketchy.
